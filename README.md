@@ -19,6 +19,10 @@
 
 Software development, system integration and data processing service. Custom automation & technical solution.
 
+## 开源项目
+
+- [cron-guard](https://github.com/phcczhopp/cron-guard) — 定时脚本前置闸门：防重入、资源/负载规避、超时兜底、JSONL 结构化审计（纯 Python 标准库，附 12 项单元测试）
+
 ---
 
 📧 业务联系 / Contact：可通过 GitHub Issue 或本仓库留言联系
